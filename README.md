@@ -17,5 +17,5 @@ The project replicates YouTube’s front UI, including:
 ## Setup
 1. Clone the repository  
    ```bash
-   git clone https://github.com/arbaz3a/youtube-clone.git
-   cd youtube-clone
+   git clone "paste repo link here"
+   cd "folder name here"
